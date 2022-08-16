@@ -18,6 +18,8 @@
 // const  Apidata = [{
 //   device_name: "1234566",
 //   relay_state: "1010"
+//     new_name; 
+//     status;
 // },
 // {
 // device_name: "7894566",
@@ -71,14 +73,10 @@
         
 //       /> */}
 //     <View 
-//     ////style={styles.item}
 //     >
 //               <Text>{item.new_name}
               
-//               {/* onPress={() =>
-//             navigation.navigate('SecondScreen', {
-//               paramKey: userName,
-//             })} */}
+          
   
   
 //               </Text>

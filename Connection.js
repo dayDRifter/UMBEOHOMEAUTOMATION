@@ -13,7 +13,7 @@ export default function Connection(props){
   return(
   <View style={styles.container}>
     <ImageBackground source={require('./assets/background.png')} resizeMode="cover" style={styles.image}>
-      {/* <Text style={styles.text}>Inside</Text> */}
+ 
       <TouchableOpacity style={styles.loginBtn}
       
       onPress={() =>
@@ -27,9 +27,7 @@ export default function Connection(props){
   );
  
 }
-// const Connection = () => (
-  
-// );
+
  
 const styles = StyleSheet.create({
   container: {
